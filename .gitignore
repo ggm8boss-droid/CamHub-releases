@@ -1,0 +1,6 @@
+# Downloads belong on the Releases page, not in the repo.
+*.zip
+*.apk
+*.exe
+*.msi
+SHA256SUMS.txt
